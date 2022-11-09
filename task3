@@ -1,0 +1,6 @@
+x= int (input())
+sq= x*x
+st= 1/2*x*x/2
+st= st*2
+sq=sq-st
+print(sq)
